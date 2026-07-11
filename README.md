@@ -29,7 +29,7 @@ git clone [https://github.com/usuario/repositorio.git](https://github.com/usuari
 
 ## 📚 Anexo: Cuestionario y Guía de Buenas Prácticas (Laboratorio 7)
 
-### Ejercicio 1. Creación de un repositorio
+### Ejercicio 1. Creación de un repositorio (Luis Morales)
 **1. ¿Qué pasos seguirías para crear el repositorio?**
 * Iniciar sesión en GitHub.
 * Hacer clic en New Repository.
@@ -47,7 +47,7 @@ Elegiría un repositorio privado, ya que el proyecto pertenece a una empresa y e
 * LICENSE (si corresponde)
 * Carpeta de documentación (docs/)
 
-### Ejercicio 2. Clonación del proyecto
+### Ejercicio 2. Clonación del proyecto (Luis Morales)
 **1. ¿Qué significa clonar un repositorio?**
 Es crear una copia completa del repositorio remoto en la computadora local para poder trabajar en él.
 
@@ -59,7 +59,7 @@ Es crear una copia completa del repositorio remoto en la computadora local para 
 * Se pueden realizar cambios antes de subirlos.
 * Facilita realizar pruebas sin afectar el repositorio remoto.
 
-### Ejercicio 3. Control de versiones
+### Ejercicio 3. Control de versiones (Luis Morales)
 **1. ¿Qué herramienta de GitHub le permite revisar el historial?**
 El historial de Commits y la pestaña History del repositorio.
 
@@ -73,7 +73,7 @@ según el caso.
 **3. ¿Por qué es importante registrar cambios mediante commits?**
 Porque permite llevar un historial de cambios, recuperar versiones anteriores y facilitar el trabajo colaborativo.
 
-### Ejercicio 4. Commits significativos
+### Ejercicio 4. Commits significativos (Luis Morales)
 **1. ¿Es recomendable esta práctica? ¿Por qué?**
 No. Un único commit con muchos cambios dificulta identificar errores y comprender qué modificaciones se realizaron.
 
