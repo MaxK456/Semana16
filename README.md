@@ -24,7 +24,7 @@ Para trabajar en este proyecto, necesitas crear una copia completa del repositor
 ```bash
 git clone [https://github.com/usuario/repositorio.git](https://github.com/usuario/repositorio.git)
 ```
-
+sdsdsdsdsd
 ---
 
 ## 📚 Anexo: Cuestionario y Guía de Buenas Prácticas (Laboratorio 7)
