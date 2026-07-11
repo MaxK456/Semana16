@@ -86,7 +86,7 @@ No. Un único commit con muchos cambios dificulta identificar errores y comprend
 * Mejoran la colaboración.
 * Permiten revertir cambios específicos.
 
-### Ejercicio 5. Trabajo con ramas
+### Ejercicio 5. Trabajo con ramas (Pacoricona Sthin)
 **1. ¿Qué estrategia recomendarías?**
 Crear una rama independiente para cada nueva funcionalidad.
 
@@ -96,7 +96,7 @@ Crear una rama independiente para cada nueva funcionalidad.
 **3. ¿Cuándo debería fusionarse con la rama principal?**
 Después de completar las pruebas, revisar el código y aprobar el Pull Request.
 
-### Ejercicio 6. Resolución de conflictos
+### Ejercicio 6. Resolución de conflictos (Pacoricona Sthin)
 **1. ¿Qué es un conflicto de fusión?**
 Es una situación en la que Git no puede combinar automáticamente cambios realizados sobre la misma parte de un archivo.
 
@@ -112,7 +112,7 @@ Es una situación en la que Git no puede combinar automáticamente cambios reali
 * Dividir el trabajo entre los desarrolladores.
 * Mantener buena comunicación.
 
-### Ejercicio 7. Pull Request
+### Ejercicio 7. Pull Request (Pacoricona Sthin)
 **1. ¿Qué es un Pull Request?**
 Es una solicitud para integrar los cambios de una rama a otra, normalmente hacia la rama principal.
 
@@ -125,7 +125,7 @@ Es una solicitud para integrar los cambios de una rama a otra, normalmente hacia
 **3. ¿Por qué es importante la revisión antes de aceptar el cambio?**
 Porque ayuda a detectar errores, mejorar la calidad del código y asegurar que se cumplan los estándares del proyecto.
 
-### Ejercicio 8. Code Review
+### Ejercicio 8. Code Review (Pacoricona Sthin)
 **1. ¿Cuál es el objetivo del Code Review?**
 Revisar el código antes de integrarlo para mejorar su calidad.
 
@@ -143,7 +143,7 @@ Revisar el código antes de integrarlo para mejorar su calidad.
 * Incrementa la calidad del software.
 * Facilita el mantenimiento.
 
-### Ejercicio 9. Issues
+### Ejercicio 9. Issues (Leonard Tomas)
 **1. ¿Cómo registrarías este problema en GitHub?**
 Creando un Issue con un título descriptivo.
 
@@ -158,7 +158,7 @@ Creando un Issue con un título descriptivo.
 **3. ¿Cómo asignarías el Issue a un desarrollador?**
 Usando la opción Assignees y seleccionando al desarrollador responsable.
 
-### Ejercicio 10. Projects
+### Ejercicio 10. Projects (Leonard Tomas)
 **1. ¿Qué herramienta ofrece GitHub para ello?**
 GitHub Projects.
 
@@ -172,7 +172,7 @@ GitHub Projects.
 **3. ¿Cómo se relacionan los Issues con el tablero?**
 Cada Issue puede convertirse en una tarjeta dentro del tablero y moverse entre columnas según su avance.
 
-### Ejercicio 11. Etiquetas (Labels)
+### Ejercicio 11. Etiquetas (Labels) (Leonard Tomas)
 **1. ¿Cómo ayudan las etiquetas?**
 Permiten clasificar y organizar las incidencias según su tipo, prioridad o estado.
 
@@ -189,7 +189,7 @@ Permiten clasificar y organizar las incidencias según su tipo, prioridad o esta
 * Mejoran la organización.
 * Ayudan en la planificación.
 
-### Ejercicio 12. Releases
+### Ejercicio 12. Releases (Leonard Tomas)
 **1. ¿Qué es un Release?**
 Es una versión oficial del software preparada para su distribución.
 
