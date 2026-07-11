@@ -1,2 +1,0 @@
-Datos.UsuarioJDBC
-datos.LoginFrame

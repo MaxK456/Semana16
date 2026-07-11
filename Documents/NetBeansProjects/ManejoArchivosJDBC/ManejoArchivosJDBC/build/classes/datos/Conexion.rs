@@ -1,2 +1,0 @@
-datos.NewClass
-Datos.Conexion
