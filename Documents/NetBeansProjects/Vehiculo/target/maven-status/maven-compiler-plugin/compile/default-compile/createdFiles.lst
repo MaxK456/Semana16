@@ -1,0 +1,7 @@
+com\mycompany\vehiculo\Main.class
+com\mycompany\vehiculo\IMoto.class
+com\mycompany\vehiculo\Auto.class
+com\mycompany\vehiculo\IAuto.class
+com\mycompany\vehiculo\MotoTaxi.class
+com\mycompany\vehiculo\Moto.class
+com\mycompany\vehiculo\Vehiculo.class

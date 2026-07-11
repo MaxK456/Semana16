@@ -1,0 +1,87 @@
+
+----------------------------------------------------------------------
+19192:IDIST 
+Entity: 2
+A warning was generated at time 0.0 at the following block:
+ *    6                 REQUEST,1:
+                            CAMION(CYC),0.833333333333333,Entity.Station:
+                            NEXT(1$);
+
+Station pair ALMACE - AMP not in distance set CAMION.Distance.
+Using distance of 0.
+Possible causes: 
+- No distance defined between this pair of stations.
+- Entity station attribute (M) incorrectly assigned before trying to
+  allocate/request transporter.
+----------------------------------------------------------------------
+
+
+
+0.0 Minutes>
+                                      ARENA Simulation Results
+                                                 UTP
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 6/16/2026
+Analyst: UTP                                                         Model revision date: 6/16/2026
+
+Replication ended at time      : 0.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+PZA.VATime                                      --         --         --         --          0
+PZA.NVATime                                     --         --         --         --          0
+PZA.WaitTime                                    --         --         --         --          0
+PZA.TranTime                                    --         --         --         --          0
+PZA.OtherTime                                   --         --         --         --          0
+PZA.TotalTime                                   --         --         --         --          0
+PAQUETE.VATime                                  --         --         --         --          0
+PAQUETE.NVATime                                 --         --         --         --          0
+PAQUETE.WaitTime                                --         --         --         --          0
+PAQUETE.TranTime                                --         --         --         --          0
+PAQUETE.OtherTime                               --         --         --         --          0
+PAQUETE.TotalTime                               --         --         --         --          0
+PROCESO DE DESCARGA.Queue.WaitingTime           --         --         --         --          0
+SOLICITAR CAMION.Queue.WaitingTime          .00000     (Insuf)    .00000     .00000          1    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+PZA.WIP                                     .00000     (Insuf)    .00000     .00000     .00000    
+PAQUETE.WIP                                 .00000     (Insuf)    .00000     1.0000     1.0000    
+OPERARIO.NumberBusy                         .00000     (Insuf)    .00000     .00000     .00000    
+OPERARIO.NumberScheduled                    .00000     (Insuf)    1.0000     1.0000     1.0000    
+OPERARIO.Utilization                        .00000     (Insuf)    .00000     .00000     .00000    
+PROCESO DE DESCARGA.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+SOLICITAR CAMION.Queue.NumberInQueue        .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+NR DE PAQUETES                                    0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+PZA.NumberIn                                .00000    
+PZA.NumberOut                               .00000    
+PAQUETE.NumberIn                            1.0000    
+PAQUETE.NumberOut                           .00000    
+OPERARIO.NumberSeized                       .00000    
+OPERARIO.ScheduledUtilization               .00000    
+System.NumberOut                            .00000    
+
+
+Simulation run time: 0.40 minutes.
+Simulation run completed with 0 error(s) and 1 warning(s).

@@ -1,0 +1,59 @@
+
+                                      ARENA Simulation Results
+                                                 UTP
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 5/12/2026
+Analyst: UTP                                                         Model revision date: 5/12/2026
+
+Replication ended at time      : 86.610331 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+CAMION.VATime                               .06065     (Insuf)    .03349     .08304         70    
+CAMION.NVATime                              .00000     (Insuf)    .00000     .00000         70    
+CAMION.WaitTime                             .00538     (Insuf)    .00000     .07699         70    
+CAMION.TranTime                             .00000     (Insuf)    .00000     .00000         70    
+CAMION.OtherTime                            .00000     (Insuf)    .00000     .00000         70    
+CAMION.TotalTime                            .06602     (Insuf)    .03349     .14620         70    
+AUTO.VATime                                 .05876     (Insuf)    .03377     .08301         80    
+AUTO.NVATime                                .00000     (Insuf)    .00000     .00000         80    
+AUTO.WaitTime                               .00313     (Insuf)    .00000     .06949         80    
+AUTO.TranTime                               .00000     (Insuf)    .00000     .00000         80    
+AUTO.OtherTime                              .00000     (Insuf)    .00000     .00000         80    
+AUTO.TotalTime                              .06190     (Insuf)    .03377     .12181         80    
+INSPECCION.Queue.WaitingTime                .00418     (Insuf)    .00000     .07699        150    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+CAMION.WIP                                  .05336     (Insuf)    .00000     2.0000     .00000    
+AUTO.WIP                                    .05717     (Insuf)    .00000     2.0000     .00000    
+INSPECTOR.NumberBusy                        .10329     (Insuf)    .00000     1.0000     .00000    
+INSPECTOR.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+INSPECTOR.Utilization                       .10329     (Insuf)    .00000     1.0000     .00000    
+INSPECCION.Queue.NumberInQueue              .00724     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+CAMION.NumberIn                             70.000    
+CAMION.NumberOut                            70.000    
+AUTO.NumberIn                               80.000    
+AUTO.NumberOut                              80.000    
+INSPECTOR.NumberSeized                      150.00    
+INSPECTOR.ScheduledUtilization              .10329    
+System.NumberOut                            150.00    
+
+
+Simulation run time: 0.50 minutes.
+Simulation run complete.
